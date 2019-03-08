@@ -248,7 +248,6 @@ vendor/lib/libthermalioctl.so
 vendor/lib/libuiblur.so
 
 # Time services
--app/TimeService/TimeService.apk
 bin/time_daemon
 vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so
